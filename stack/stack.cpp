@@ -15,6 +15,7 @@ class Stack {
             void pop_f(void);
             void list_f(void);
 };
+
 Stack::Stack()
 {
     top = -1;

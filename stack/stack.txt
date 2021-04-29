@@ -1,0 +1,11 @@
+Things I learned today:
+
+    conio.h : 用於數據輸入及輸出，可用函式: getch()
+    getch() : 讀取一字符但不顯示出來
+    
+    class : 
+
+    cout.setf() : 控制輸出格式
+        ios::left -->靠左
+        
+    
